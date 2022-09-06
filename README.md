@@ -1,2 +1,13 @@
-# Gerador_Validador_CNPJ
- Simples Script para Gerar e validar números aleatórios de CNPJ.
+# Gerador e Validador de CPF
+
+### Resumo versão 1.0:
+
+Simples Script para Gerar e validar números aleatórios de CNPJ.
+
+**Técnicas utilizadas:**
+
+* importações de bibliotecas
+* condicionais
+* loop For
+* Funções
+* Expressão Regular
