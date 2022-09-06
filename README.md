@@ -1,4 +1,4 @@
-# Gerador e Validador de CPF
+# Gerador e Validador de CNPJ
 
 ### Resumo versão 1.0:
 
